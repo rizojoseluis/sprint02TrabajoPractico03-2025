@@ -1,3 +1,5 @@
+// responseView.mjs
+
 export function renderizarSuperheroe(superheroe){
     return {
         Nombre: superheroe.nombreSuperHeroe,

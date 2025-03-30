@@ -1,3 +1,5 @@
+// Capa IRepository.mjs
+
 class IRepository{
     obtenerPorId(id){
         throw new Error("Método 'obtenerPorID()' no implementado");

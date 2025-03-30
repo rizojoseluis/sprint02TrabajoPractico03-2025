@@ -1,3 +1,5 @@
+//Capa superheroesService.mjs
+
 import SuperHeroRepository from "../repositories/SuperHeroRepository.mjs";
 
 export async function obtenerSuperheroePorId(id) {
@@ -13,6 +15,8 @@ export async function buscarSuperheroesPorAtributo(atributo, valor){
 }
 
 export async function obtenerSuperheroesMayoresDe30(){
+    console.log("Entrando al servicio obtenerSuperheroesMayoresDe30");
     return await SuperHeroRepository.obtenerMayoresDe30();
+
 }
 

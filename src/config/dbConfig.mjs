@@ -1,3 +1,4 @@
+// Capa dbConfig.mjs
 /* Configura la conexión centralizada a MongoDB.
 Únida instancia de conexión que puede ser utilizada en cualquier parte
 del proyecto. */

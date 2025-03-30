@@ -1,0 +1,122 @@
+[
+  {
+    "nombreSuperHeroe": "ShadowStrike",
+    "nombreReal": "Ethan Black",
+    "edad": 32,
+    "planetaOrigen": "Tierra",
+    "debilidad": "Luz intensa",
+    "poderes": ["Invisibilidad", "Control de sombras", "Sigilo extremo"],
+    "aliados": ["Daredevil", "Moon Knight"],
+    "enemigos": ["Kingpin", "Mysterio"],
+    "creador": "Marvel Studios",
+    "createdAt": { "$date": "2025-03-30T00:00:00.000Z" }
+  },
+  {
+    "nombreSuperHeroe": "Solaris",
+    "nombreReal": "Elena Vega",
+    "edad": 28,
+    "planetaOrigen": "Tierra",
+    "debilidad": "Oscuridad extrema",
+    "poderes": ["Manipulación solar", "Vuelo", "Super fuerza"],
+    "aliados": ["Iron Man", "Nova"],
+    "enemigos": ["Dr. Doom", "Annihilus"],
+    "creador": "Marvel Studios",
+    "createdAt": { "$date": "2025-03-30T00:00:00.000Z" }
+  },
+  {
+    "nombreSuperHeroe": "Glacier",
+    "nombreReal": "Lucas Frost",
+    "edad": 35,
+    "planetaOrigen": "Tierra",
+    "debilidad": "Calor extremo",
+    "poderes": ["Criogénesis", "Resistencia sobrehumana", "Regeneración"],
+    "aliados": ["Iceman", "Storm"],
+    "enemigos": ["Pyro", "Loki"],
+    "creador": "Marvel Studios",
+    "createdAt": { "$date": "2025-03-30T00:00:00.000Z" }
+  },
+  {
+    "nombreSuperHeroe": "Phantom",
+    "nombreReal": "Derek Hunt",
+    "edad": 40,
+    "planetaOrigen": "Tierra",
+    "debilidad": "Magia oscura",
+    "poderes": ["Intangibilidad", "Teletransportación", "Control mental"],
+    "aliados": ["Doctor Strange", "Scarlet Witch"],
+    "enemigos": ["Mephisto", "Dormammu"],
+    "creador": "Marvel Studios",
+    "createdAt": { "$date": "2025-03-30T00:00:00.000Z" }
+  },
+  {
+    "nombreSuperHeroe": "Thunderstrike",
+    "nombreReal": "Erik Storm",
+    "edad": 30,
+    "planetaOrigen": "Asgard",
+    "debilidad": "Fuerza mágica superior",
+    "poderes": ["Control del trueno", "Vuelo", "Super resistencia"],
+    "aliados": ["Thor", "Beta Ray Bill"],
+    "enemigos": ["Loki", "The Destroyer"],
+    "creador": "Marvel Studios",
+    "createdAt": { "$date": "2025-03-30T00:00:00.000Z" }
+  },
+  {
+    "nombreSuperHeroe": "Psyblade",
+    "nombreReal": "Maya Lin",
+    "edad": 27,
+    "planetaOrigen": "Tierra",
+    "debilidad": "Desgaste mental",
+    "poderes": ["Creación de espadas psíquicas", "Telepatía", "Agilidad sobrehumana"],
+    "aliados": ["Psylocke", "Wolverine"],
+    "enemigos": ["Sabretooth", "Omega Red"],
+    "creador": "Marvel Studios",
+    "createdAt": { "$date": "2025-03-30T00:00:00.000Z" }
+  },
+  {
+    "nombreSuperHeroe": "Titanium",
+    "nombreReal": "Hector Grant",
+    "edad": 45,
+    "planetaOrigen": "Tierra",
+    "debilidad": "Campo magnético intenso",
+    "poderes": ["Cuerpo de titanio", "Super fuerza", "Resistencia extrema"],
+    "aliados": ["Hulk", "Colossus"],
+    "enemigos": ["Magneto", "Juggernaut"],
+    "creador": "Marvel Studios",
+    "createdAt": { "$date": "2025-03-30T00:00:00.000Z" }
+  },
+  {
+    "nombreSuperHeroe": "Nebular",
+    "nombreReal": "Zyra Quill",
+    "edad": 200,
+    "planetaOrigen": "Xandar",
+    "debilidad": "Energía gravitacional",
+    "poderes": ["Manipulación cósmica", "Creación de portales", "Telequinesis"],
+    "aliados": ["Star-Lord", "Silver Surfer"],
+    "enemigos": ["Galactus", "Thanos"],
+    "creador": "Marvel Studios",
+    "createdAt": { "$date": "2025-03-30T00:00:00.000Z" }
+  },
+  {
+    "nombreSuperHeroe": "Voidwalker",
+    "nombreReal": "Kairos Vex",
+    "edad": 500,
+    "planetaOrigen": "Desconocido",
+    "debilidad": "Anclaje dimensional",
+    "poderes": ["Viaje interdimensional", "Manipulación del vacío", "Inmortalidad"],
+    "aliados": ["Doctor Strange", "The Watcher"],
+    "enemigos": ["Kang el Conquistador", "Shuma-Gorath"],
+    "creador": "Marvel Studios",
+    "createdAt": { "$date": "2025-03-30T00:00:00.000Z" }
+  },
+  {
+    "nombreSuperHeroe": "Blazeheart",
+    "nombreReal": "Dante Reyes",
+    "edad": 29,
+    "planetaOrigen": "Tierra",
+    "debilidad": "Agua",
+    "poderes": ["Manipulación del fuego", "Regeneración", "Resistencia al calor"],
+    "aliados": ["Ghost Rider", "Human Torch"],
+    "enemigos": ["Blackheart", "Hydro-Man"],
+    "creador": "Marvel Studios",
+    "createdAt": { "$date": "2025-03-30T00:00:00.000Z" }
+  }
+]
